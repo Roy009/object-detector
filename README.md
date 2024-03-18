@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Object Detector Using Tensorflow and Nextjs
 
-![Screenshot 2024-03-19 013158](https://github.com/Roy009/object-detector/assets/63160366/de753d4a-afa7-4df2-949a-42e851a8dd36)
-
 ![Screenshot 2024-03-19 013208](https://github.com/Roy009/object-detector/assets/63160366/7271840a-cd8c-40f5-a269-caafabb68ab4)
+
+![Screenshot 2024-03-19 013158](https://github.com/Roy009/object-detector/assets/63160366/de753d4a-afa7-4df2-949a-42e851a8dd36)
 
 ## Getting Started
 
