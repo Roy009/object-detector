@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# Object Detector Using Tensorflow and Nextjs
+
+![Screenshot 2024-03-19 013158](https://github.com/Roy009/object-detector/assets/63160366/de753d4a-afa7-4df2-949a-42e851a8dd36)
+
+![Screenshot 2024-03-19 013208](https://github.com/Roy009/object-detector/assets/63160366/7271840a-cd8c-40f5-a269-caafabb68ab4)
